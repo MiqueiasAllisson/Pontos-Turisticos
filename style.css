@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+body {
+  background-color: #F5F4F0;
+}
+
+#page {
+  box-sizing: border-box;
+  width: 1120px;
+  margin: 88px auto 80px;
+}
+
+
+#init p {
+  padding-bottom: 8px;
+}
+
+#destiny {
+  margin: 64px 0px;
+}
+
+#destiny p {
+  padding-top: 4px;
+}
+
+section {
+  margin-top: 40px;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 32px;
+  padding-top: 2px;
+}
+
+h3 {
+  font-size: 28px;
+}
+
+p {
+  padding-top: 4px;
+  color: #333333;
+}
+
+img {
+  padding-bottom: 20px;
+}
+
+#headline {
+  color: #E1624F;
+}
+
+h1,
+h2,
+h3,
+#headline {
+  font-weight: 800;
+}
+
+hr {
+  margin-top: 40px;
+}
+
+#subtitle {
+  font-style: italic;
+  font-weight: 800;
+  color: #696969;
+}
+
+.blue {
+  color: #0C51A7;
+}
+
+.orange {
+  color: #E95E10;
+}
+
+.pink {
+  color: #E5245E;
+}
+
+.purple {
+  color: #591B98;
+}
+
+footer {
+  color: #333333;
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+footer img {
+  padding-top: 15px;
+  vertical-align: middle;
+}
